@@ -8,4 +8,14 @@ This was really a good experience and i learned a lot of stuffs in those 2 days 
 
 I did my best, thats what I believe, based on the amount of knowledge I have till then. I saw other players ranks and scores too, and that gave me a drive to Improve, Adapt and Conquer. 
 
+I feel proud that I came 80th rank. I know its not that worth, but, I felt that i deserved it, being a first timer and being fearless to solve and at least trying to solve. 
+
+With this, I told myself to keep Improving, keep Adapting, and keep Conquering.
+
+![Rank](image/Flag_hunter2.0_RANK.png)
+
+![Rank](image/Flag_hunter2.0_SCORES&SOLVES.png)
+
+![Rank](image/Flag_hunter2.0_Graph.png)
+
 
