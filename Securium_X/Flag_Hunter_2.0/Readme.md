@@ -15,7 +15,11 @@ With this, I told myself to keep Improving, keep Adapting, and keep Conquering.
 ![Rank](image/Flag_hunter2.0_RANK.png)
 
 ![Rank](image/Flag_hunter2.0_SCORES&SOLVES.png)
-
+If I didnt took those hints, my score would've being 610, putting me at around 70 to 68 ranks. But whatever, I better be more skilled next time.
 ![Rank](image/Flag_hunter2.0_Graph.png)
+
+The Graph shows the scores I gained overtime. As you all can see, its full of ups and downs.
+
+If you read till here, THANKYOU FOR SPENDING YOUR TIME IN MY REPO. REALLY APPRECIATE IT.
 
 
