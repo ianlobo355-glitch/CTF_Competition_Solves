@@ -17,6 +17,7 @@ Logs.zip and a README.txt
 ![files](images/BSLogs.zip.png)
 
 The README.txt contains the sentence: FLAGS HAVE BEEN REDACTED AND ARCHIVED, TRY HARDER.
+![message](images/BSMessage.png)
 
 In Logs.zip, there is a syslog.txt file which contains logs of system entries.
 ![files](images/BSsyslog.png)
