@@ -4,26 +4,31 @@
 ![Challenge Description](images/BSDescription.png)
 
 ## Solution
-![start page](images/BSFiles.zip.png)
 
 In this challenge, We are told to download a file called [filename]
 
-After downloading it, there were various folders: File.zip, Junk.docs. 
+After downloading it, there were various folders: File.zip, Junk.docs.
+
+![start page](images/BSFiles.zip.png)
 
 In File.zip, there were 2 more folders: 
 Logs.zip and a README.txt 
 
+![files](images/BSLogs.zip.png)
+
 The README.txt contains the sentence: FLAGS HAVE BEEN REDACTED AND ARCHIVED, TRY HARDER.
 
 In Logs.zip, there is a syslog.txt file which contains logs of system entries.
+![files](images/BSsyslog.png)
 
 The file which grabbed my attention was the Junk.docs. When I clicked on it, a message is displayed saying that the "Archived type is not supported".
+![error](images/BSArchiveerror.png)
 
 I googled on how to open such files and found out that 7z tool can be used to open such files.
 
 Without any hesitation, I fired up my terminal and typed the command:
-
 7z x Junk.docs
+![command](images/BS7z.png)
 
 The file was automatically extracted and various folders is added on desktop.
 
