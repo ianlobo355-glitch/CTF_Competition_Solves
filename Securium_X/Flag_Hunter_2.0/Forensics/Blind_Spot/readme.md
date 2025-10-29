@@ -5,7 +5,7 @@
 
 ## Solution
 
-In this challenge, We are told to download a file called [filename]
+In this challenge, We are told to download a file called challenge.zip
 
 After downloading it, there were various folders: File.zip, Junk.docs.
 
@@ -27,7 +27,7 @@ The file which grabbed my attention was the Junk.docs. When I clicked on it, a m
 I googled on how to open such files and found out that 7z tool can be used to open such files.
 
 Without any hesitation, I fired up my terminal and typed the command:
-7z x Junk.docs
+7z x challenge.zip
 ![command](images/BS7z.png)
 
 The file was automatically extracted and various folders is added on desktop.
