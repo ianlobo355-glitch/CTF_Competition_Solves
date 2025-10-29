@@ -1,10 +1,10 @@
 # Blind Spot
 
 ## Challenge Description
-![Challenge Description](images/Cookies_description.png)
+![Challenge Description](images/BSDescription.png)
 
 ## Solution
-![start page](images/Cookies_start.png)
+![start page](images/BSFiles.zip.png)
 
 In this challenge, We are told to download a file called [filename]
 
