@@ -34,7 +34,11 @@ Without any hesitation, I fired up my terminal and typed the command:
 
 The file was automatically extracted and various folders is added on desktop.
 
+![extracted](images/BSJunkextracted.png)
+
 Among those folders, there was a Media folder. Upon clicking it, a png file was found , when opened, an image of the flag was displayed.
+
+![flag](images/BSFlag.png)
 
 Since each challenge had 5 attempts, I took the risk and typed the flag in the submit bar.
 
