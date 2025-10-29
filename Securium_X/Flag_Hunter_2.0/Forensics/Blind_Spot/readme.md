@@ -23,9 +23,10 @@ In Logs.zip, there is a syslog.txt file which contains logs of system entries.
 ![files](images/BSsyslog.png)
 
 The file which grabbed my attention was the Junk.docs. When I clicked on it, a message is displayed saying that the "Archived type is not supported".
+
 ![error](images/BSArchiveerror.png)
 
-I googled on how to open such files and found out that 7z tool can be used to open such files.
+I googled on how to open such files and found out that 7z tool can be used to extract and open such files.
 
 Without any hesitation, I fired up my terminal and typed the command:
 7z x challenge.zip
