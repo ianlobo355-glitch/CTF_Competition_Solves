@@ -6,7 +6,7 @@ My team managed to come 8th rank in this event out of 37 teams, where each team 
 
 Now, its time to get exposed more and IMPROVE.!!!!!!!
 
-![Rank](image/rank.png)
+![Rank](images/rank.png)
 
-![Rank](image/problems.png)
+![Rank](images/problems.png)
 
