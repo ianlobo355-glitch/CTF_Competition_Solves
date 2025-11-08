@@ -1,13 +1,13 @@
 # Hexdump
 
 ## Challenge Description
-![Challenge Description](images/Description.png)
+![Challenge Description](images/description.png)
 
 ## Solution
 
 In this challenge, We are given a hexdump file.
 
-![hexdump](images/hexdump.png)
+![hexdump](images/hexdump_message.png)
 
 Chatgpt decoded it and got the flag
 
