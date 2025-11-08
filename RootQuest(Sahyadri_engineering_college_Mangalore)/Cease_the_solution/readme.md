@@ -1,7 +1,7 @@
 # Cease the Solution
 
 ## Challenge Description
-![Challenge Description](images/description.png)
+![Challenge Description](images/Description.png)
 
 ## Solution
 
