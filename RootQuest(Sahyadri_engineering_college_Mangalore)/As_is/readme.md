@@ -5,25 +5,10 @@
 
 ## Solution
 
-In this challenge, We are first greeted with a Login page. As confident as I am, I directly opened the inspector and found the user name and password as comments in the HTML script.
+In this challenge, a ASCII code encrypted flag was given. The only solution to this is to decode it.
 
-![Login](images/DDLogin.png)
-![LoginPassword](images/DDLoginPassword.png)
+Chatgpt has done the decoding.
 
-As we logged in, we are presented with a Dashboard with variety of items to shop from. I interacted with each item, and saw the output it gives. 
-
-![Dashboard](images/DDDashboard.png)
-
-I interacted with the page, clicking buy , which shows a page saying that i have purchased.
-
-![Purchasedd](images/DDPurchased.png)
-
-I then inspected the page to see what is flaw, and then found out that the code has a discount option which was hidden. Of course, as curious as I am, I changed the discount amount to 100 to make sure the purchased price will not be considered.
-
-![Discount](images/DDDiscount.png)
-
-I changed every items discount to 100 and clicked on every item to purchase. When i clicked on the "Golden Cookie", with the discount changed to 100, The flag was displayed.
-
-![flag](images/DDFlag.png)
+![flag](images/flag.png)
 
 
